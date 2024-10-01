@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Landing",
+		"liveServer.settings.port": 5501
+	}
+}
